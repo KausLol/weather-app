@@ -1,6 +1,6 @@
 # Weather Data Program
 
-A simple Python program that provides real-time weather data based on user-inputted city names. The program retrieves weather information from the OpenWeatherMap API and includes details such as temperature, humidity, wind speed, and wind direction.
+A simple Python program that provides real-time weather data based on user-inputted city names. The program retrieves weather information from OpenWeatherMap API.
 
 ## Features :
 
